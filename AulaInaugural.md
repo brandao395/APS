@@ -1,4 +1,4 @@
-<img width="1680" height="2238" alt="IMG_20260813_093449" src="https://github.com/user-attachments/assets/e61bceb4-920c-4b41-88bc-484eb6f88fb7" /># Dinâmica do Desenho
+# Dinâmica do Desenho
 
 Desenhem uma tela de aplicativo em **10 minutos** que registre um problema que ocorre na sua faculdade.
 
